@@ -1,6 +1,6 @@
 {
   "name": "@novi_dev/novi-plugin-label",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Novi Label Plugin",
   "main": "dist/novi-plugin-label.js",
   "repository": {

@@ -7,7 +7,7 @@ const Plugin = {
     name: "novi-plugin-label",
     title: "Novi Label",
     description: "Novi Label description",
-    version: "1.0.2",
+    version: "1.0.3",
     dependencies: {
     },
     defaults: {
