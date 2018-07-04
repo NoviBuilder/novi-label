@@ -23,7 +23,7 @@ export default class Header extends Component {
 
     render() {
         return (
-            <div className="novi-link-tool">
+            <div style={{display: "flex"}}>
                 <Icon>{Icons.ICON_LABEL}</Icon> 
                 <div className="link-tool-input-warp" style={{width: 195}}>
                     <Input onChange={this._handleTextChange} value={this.state.value}/>

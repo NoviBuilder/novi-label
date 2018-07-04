@@ -7,9 +7,9 @@ const Plugin = {
     name: "novi-plugin-label",
     title: "Novi Label",
     description: "Novi Label description",
-    version: "1.0.4",
+    version: "1.0.5",
     dependencies: {
-        novi: "0.8.6"
+        novi: "0.9.0"
     },
     defaults: {
         querySelector: "label"
